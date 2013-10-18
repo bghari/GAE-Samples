@@ -11,7 +11,7 @@ import com.google.appengine.api.users.UserServiceFactory;
 */
 import com.google.appengine.api.utils.SystemProperty;
 
-
+//Cloud SQl example.
 @SuppressWarnings("serial")
 public class GuestbookServlet extends HttpServlet {
 	  @Override
